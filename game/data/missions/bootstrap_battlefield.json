@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "bootstrap_battlefield",
+  "name": "Empty 1v1 Test Arena",
+  "purpose": "Small test arena for a future 1v1 scenario; group battles need larger maps.",
+  "grid": {
+    "width": 12,
+    "height": 12
+  },
+  "units": []
+}

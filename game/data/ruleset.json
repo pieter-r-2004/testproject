@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "ruleset_version": "0.0.1",
+  "default_seed": 12345,
+  "description": "Milestone 0 example metadata. No gameplay rules implemented."
+}

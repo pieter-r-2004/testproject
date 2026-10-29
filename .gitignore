@@ -1,0 +1,26 @@
+# Godot-generated imports, editor state, and export output.
+**/.godot/
+**/export_credentials.cfg
+/build/
+/dist/
+
+# Local tools, logs, and generated verification artifacts.
+/.tools/
+/.artifacts/
+/.superpowers/
+*.log
+
+# AI weights and datasets belong on external training hardware.
+*.gguf
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+/ai/training/output/
+/ai/training/datasets/
+
+# OS/editor-local files.
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
